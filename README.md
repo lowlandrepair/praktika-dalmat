@@ -3,3 +3,4 @@
 Emri: Dalmat
 Klasa: XII
  mdoso
+wassa
